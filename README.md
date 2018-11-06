@@ -1,2 +1,2 @@
-# hello world!
+# JS Programs inspired by HackClub
 #
