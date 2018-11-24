@@ -1,3 +1,6 @@
+// Rain.js
+// Click to add more raindrops! Randomized colors!
+
 var xPositions = [200, 50, 80, 333];
 var yPositions = [0, -100, -25, -222];
 var colors = [
@@ -28,8 +31,5 @@ draw = function() {
         }
         
         yPositions[i] += 4;
-    }
-    
-    
-    
+    } 
 };
